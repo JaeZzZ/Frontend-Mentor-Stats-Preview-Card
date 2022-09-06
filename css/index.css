@@ -54,6 +54,10 @@ h1 {
     margin: 20px 0;
 }
 
+.content > p:nth-of-type(1) {
+    line-height: 1.6;
+}
+
 .highlight {
     color: hsl(277, 64%, 61%);
 }
